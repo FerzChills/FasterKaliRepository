@@ -1,4 +1,4 @@
-# Fast-Kali-Repo
+# Faster-Kali-Repository
 
 This script is used to speed up updates and upgrades to the Kali Linux Repository
 
